@@ -1,6 +1,6 @@
 # Crypto Transaction Analytics Platform
 
-An end-to-end data engineering project built during the **Data Engineering Zoomcamp 2025 Cohort**. It ingests cryptocurrency data (market trades + blockchain transactions) into a cloud-native pipeline, transforms it, and presents it through a dashboard for insights.
+An end-to-end data engineering project. It ingests cryptocurrency data (market trades + blockchain transactions) into a cloud-native pipeline, transforms it, and presents it through a dashboard for insights.
 
 ---
 
